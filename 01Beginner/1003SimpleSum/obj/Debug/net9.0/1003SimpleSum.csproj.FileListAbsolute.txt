@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\bin\Debug\net9.0\1003SimpleSum.exe
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\bin\Debug\net9.0\1003SimpleSum.deps.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\bin\Debug\net9.0\1003SimpleSum.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\bin\Debug\net9.0\1003SimpleSum.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\bin\Debug\net9.0\1003SimpleSum.pdb
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\refint\1003SimpleSum.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.pdb
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\1003SimpleSum.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1003SimpleSum\obj\Debug\net9.0\ref\1003SimpleSum.dll

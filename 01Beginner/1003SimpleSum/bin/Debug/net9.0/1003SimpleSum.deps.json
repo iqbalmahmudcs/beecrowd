@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1003SimpleSum/1.0.0": {
+        "runtime": {
+          "1003SimpleSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1003SimpleSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

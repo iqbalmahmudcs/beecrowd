@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\bin\Debug\net9.0\1004SimpleProduct.exe
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\bin\Debug\net9.0\1004SimpleProduct.deps.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\bin\Debug\net9.0\1004SimpleProduct.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\bin\Debug\net9.0\1004SimpleProduct.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\bin\Debug\net9.0\1004SimpleProduct.pdb
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\refint\1004SimpleProduct.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.pdb
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\1004SimpleProduct.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1004SimpleProduct\obj\Debug\net9.0\ref\1004SimpleProduct.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\bin\Debug\net9.0\1000HelloWorld.exe
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\bin\Debug\net9.0\1000HelloWorld.deps.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\bin\Debug\net9.0\1000HelloWorld.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\bin\Debug\net9.0\1000HelloWorld.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\bin\Debug\net9.0\1000HelloWorld.pdb
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\refint\1000HelloWorld.dll
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.pdb
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\1000HelloWorld.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\beecrowd\01Beginner\1000  Hello World!\obj\Debug\net9.0\ref\1000HelloWorld.dll
